@@ -1,4 +1,4 @@
-flask==2.0.2
+flask==3.1.0
 requests==2.32.3
 pandas==2.2.3
 numpy==2.1.0
@@ -8,3 +8,4 @@ uvicorn==0.34.0
 torch==2.6.0
 Pillow==11.1.0
 ultralytics==8.3.91
+python-multipart==0.0.20
